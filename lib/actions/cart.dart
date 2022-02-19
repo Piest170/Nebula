@@ -1,0 +1,3 @@
+class Cart {
+  addToCart(product) {}
+}
